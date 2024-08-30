@@ -32,11 +32,13 @@
 
 ## My Stats:
 <table>
-  <tr style="visibility: collapse;">
+  <!-- 
+  <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihaziz&show_icons=true&locale=en&count_private=true&theme=dracula" alt="fatihaziz" />
     </td>
   </tr>
+  -->
   <tr>
     <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihaziz&theme=dracula" alt="fatihaziz" />
