@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Aziz</h1>
-<h3 align="center">Never give up🕺, Never let (server) down🔻</h3>
+<h3 align="center">Never gonna give you up🕺, Never gonna let (server) down🔻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihaziz&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="fatihaziz" /> </p>
 
