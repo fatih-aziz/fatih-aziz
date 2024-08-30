@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihaziz&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="fatihaziz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihaziz&theme=dracula&column=3" alt="fatihaziz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihaziz&theme=juicyfresh&column=4&title=-Stars,-Followers,-Issues,-Reviews,-PullRequest" alt="fatihaziz" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@m.fatihalaziz](https://medium.com/@m.fatihalaziz)
 
