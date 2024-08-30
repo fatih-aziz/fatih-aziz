@@ -32,7 +32,7 @@
 
 ## My Stats:
 <table>
-  <tr>
+  <tr style="visibility: collapse;">
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihaziz&show_icons=true&locale=en&count_private=true&theme=dracula" alt="fatihaziz" />
     </td>
